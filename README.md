@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/sim786par/dsa_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sim786par/dsa_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sim786par/dsa_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/sim786par/dsa_solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sim786par/dsa_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sim786par/dsa_solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sim786par/dsa_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sim786par/dsa_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/sim786par/dsa_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sim786par/dsa_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/sim786par/dsa_solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sim786par/dsa_solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sim786par/dsa_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
