@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sim786par/dsa_solutions/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/sim786par/dsa_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sim786par/dsa_solutions/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sim786par/dsa_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sim786par/dsa_solutions/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/sim786par/dsa_solutions/tree/master/0059-spiral-matrix-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sim786par/dsa_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/sim786par/dsa_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sim786par/dsa_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sim786par/dsa_solutions/tree/master/0268-missing-number) |
