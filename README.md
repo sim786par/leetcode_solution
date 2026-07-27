@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sim786par/dsa_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sim786par/dsa_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sim786par/dsa_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/sim786par/dsa_solutions/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Sorting
 |  |
 | ------- |
