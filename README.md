@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/sim786par/dsa_solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sim786par/dsa_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sim786par/dsa_solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/sim786par/dsa_solutions/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/sim786par/dsa_solutions/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/sim786par/dsa_solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sim786par/dsa_solutions/tree/master/0693-binary-number-with-alternating-bits) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/sim786par/dsa_solutions/tree/master/0338-counting-bits) |
 | [0799-champagne-tower](https://github.com/sim786par/dsa_solutions/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sim786par/dsa_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sim786par/dsa_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
