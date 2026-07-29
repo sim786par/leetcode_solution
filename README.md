@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sim786par/dsa_solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/sim786par/dsa_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sim786par/dsa_solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/sim786par/dsa_solutions/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sim786par/dsa_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sim786par/dsa_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sim786par/dsa_solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sim786par/dsa_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sim786par/dsa_solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/sim786par/dsa_solutions/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/sim786par/dsa_solutions/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/sim786par/dsa_solutions/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/sim786par/dsa_solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sim786par/dsa_solutions/tree/master/0693-binary-number-with-alternating-bits) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/sim786par/dsa_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sim786par/dsa_solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sim786par/dsa_solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/sim786par/dsa_solutions/tree/master/0342-power-of-four) |
 ## Breadth-First Search
 |  |
 | ------- |
